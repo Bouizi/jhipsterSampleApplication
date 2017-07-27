@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitHubOrganization": "Bouizi",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "serverPort": 9999,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "hibernateCache": "no",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "fr",
+    "languages": [
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhipsterVersion": "4.6.2",
+    "packageFolder": "io/github/jhipster/application",
+    "jwtSecretKey": "a8b44cd882ca318393a57aebf88c6af8ac90ac5a",
+    "jhiPrefix": "jhi",
+    "skipClient": true
+  }
+}
