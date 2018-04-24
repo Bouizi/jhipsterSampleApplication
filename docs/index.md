@@ -119,7 +119,7 @@ Here are the big ticket items you'll want to be aware of when moving from v3 to 
 - **Dropped the pager component** as it was essentially slightly customized buttons.
 - **Refactored nearly all components** to use more un-nested class selectors instead of over-specific children selectors.
 
-## By component
+### By component
 
 This list highlights key changes by component between v3.x.x and v4.0.0.
 
